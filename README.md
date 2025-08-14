@@ -8,7 +8,7 @@ Then ChatGPT came around, and my dreams were pretty much fulfilled! The problem 
 
 ## Solution
 
-But thanks to Ollama, I could finally host my very own custom llm model! Using the recently released gpt-oss:20b, and Ollama's `Modelfile` syntax, I was able to update the system message to;
+But thanks to [Ollama](https://github.com/ollama/ollama), I could finally host my very own custom llm model! Using the recently released [gpt-oss:20b](https://github.com/openai/gpt-oss), and Ollama's `Modelfile` syntax, I was able to update the system message to;
 
 ```
 You are ADDAM (Accurate Data Driven Artificial Mind), an AI personal assistant created by Harry Leach.
